@@ -1,5 +1,5 @@
 // Generated using https://github.com/a2x/cs2-dumper
-// 2026-03-12 17:07:59.219501500 UTC
+// 2026-03-18 17:35:52.760113400 UTC
 
 #![allow(non_upper_case_globals, unused)]
 
@@ -160,16 +160,16 @@ pub mod cs2_dumper {
         }
         // Module: server.dll
         pub mod server_dll {
-            pub const EmptyWorldService001_Server: usize = 0x1B76BE0;
-            pub const EntitySubclassUtilsV001: usize = 0x1B22140;
-            pub const NavGameTest001: usize = 0x1C207F8;
-            pub const ServerToolsInfo_001: usize = 0x1BD1A78;
-            pub const Source2GameClients001: usize = 0x1BCEAF0;
-            pub const Source2GameDirector001: usize = 0x1D60A30;
-            pub const Source2GameEntities001: usize = 0x1BD1180;
-            pub const Source2Server001: usize = 0x1BD0FE0;
-            pub const Source2ServerConfig001: usize = 0x1E55878;
-            pub const customnavsystem001: usize = 0x1B00EF8;
+            pub const EmptyWorldService001_Server: usize = 0x1B76C00;
+            pub const EntitySubclassUtilsV001: usize = 0x1B22160;
+            pub const NavGameTest001: usize = 0x1C20878;
+            pub const ServerToolsInfo_001: usize = 0x1BD1AF8;
+            pub const Source2GameClients001: usize = 0x1BCEB70;
+            pub const Source2GameDirector001: usize = 0x1D60AB0;
+            pub const Source2GameEntities001: usize = 0x1BD1200;
+            pub const Source2Server001: usize = 0x1BD1060;
+            pub const Source2ServerConfig001: usize = 0x1E558F8;
+            pub const customnavsystem001: usize = 0x1B00F18;
         }
         // Module: soundsystem.dll
         pub mod soundsystem_dll {
@@ -184,7 +184,7 @@ pub mod cs2_dumper {
         }
         // Module: steamclient64.dll
         pub mod steamclient64_dll {
-            pub const CLIENTENGINE_INTERFACE_VERSION005: usize = 0xFFFFFFFF8BB6672A;
+            pub const CLIENTENGINE_INTERFACE_VERSION005: usize = 0xFFFFFFFF8BB6677A;
             pub const IVALIDATE001: usize = 0x16998B8;
             pub const SteamClient006: usize = 0x1696D50;
             pub const SteamClient007: usize = 0x1696D58;
