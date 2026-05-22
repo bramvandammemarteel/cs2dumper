@@ -1,5 +1,5 @@
 // Generated using https://github.com/a2x/cs2-dumper
-// 2026-05-19 08:51:54.132016100 UTC
+// 2026-05-22 09:58:37.893106500 UTC
 
 namespace CS2Dumper.Schemas {
     // Module: rendersystemdx11.dll
